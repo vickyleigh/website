@@ -1,0 +1,16 @@
+---
+title: Population estimating Shiny app
+author: ''
+date: '2019-10-06'
+slug: class-survival
+categories:
+  - projects
+tags:
+  - r
+  - shiny
+  - public health
+  - projects
+comments: no
+showcomments: yes
+showpagemeta: yes
+---

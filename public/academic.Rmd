@@ -1,0 +1,28 @@
+---
+title: "Academic background"
+author: ~
+date: "2019-10-05"
+description: A list of projects I completed during my time at Glasgow Uni
+slug: ""
+categories: ["background", "projects"]
+tags: ["r", "glasgow", "psychology", "background", "projects"]
+---
+
+<img src="images/ebea.png"
+  style="width: 50%;
+         float: left;
+         padding-right: 10px;">
+         
+My current work focuses on the influence of sexual orientation and parental imprinting on partner choice and is part of the ESRC funded KINSHIP project “How do humans recognise kin?”.
+
+<br>
+I presented this research as a poster at the European Human Behaviour and Evolution Association (EHBEA) conference in Pécs, Hungary and at the Human Behavior and Evolution Society (HBES) conference in Amsterdam, The Netherlands. Which you can download [here](https://osf.io/x9wka/).
+
+<br>
+For my undergraduate project also at the University of Glasgow I investigated  women's perceived sexual orientation and it's association with traits visible in their faces, supervised by [Ben Jones](http://facelab.org/People/benjones). 
+
+<br>
+I have also undertaken an Erasmus funded research project in the Person Perception lab and the University of Jena, supervised by [Jürgen Kaufmann](http://www.allgpsy.uni-jena.de/jurgen-kaufmann/). This research looked at individual differences and their influence on facial recognition. 
+
+<br>
+As well as this, I have also assisted [Judith Stevenson](https://www.gla.ac.uk/schools/psychology/staff/judestevenson/) on an eye-tracking study on attentional biases of those with Trichotillomania. 

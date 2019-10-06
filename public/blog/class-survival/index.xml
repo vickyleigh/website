@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vicky Leigh</title>
+    <link>/hugo-goa-demo/post/</link>
+    <description>Recent content in Posts on Vicky Leigh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/hugo-goa-demo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Population estimating Shiny app</title>
+      <link>/hugo-goa-demo/post/class-survival/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/hugo-goa-demo/post/class-survival/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

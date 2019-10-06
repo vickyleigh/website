@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glasgow on Vicky Leigh</title>
+    <link>/tags/glasgow/</link>
+    <description>Recent content in glasgow on Vicky Leigh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/glasgow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic background</title>
+      <link>/blog/academic/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/academic/</guid>
+      <description>My masters project focused on the influence of sexual orientation and parental imprinting on partner choice and was part of the ESRC funded KINSHIP project “How do humans recognise kin?”.
+
+I presented this research as a poster at the European Human Behaviour and Evolution Association (EHBEA) conference in Pécs, Hungary and at the Human Behavior and Evolution Society (HBES) conference in Amsterdam, The Netherlands. Which you can download here.</description>
+    </item>
+    
+  </channel>
+</rss>

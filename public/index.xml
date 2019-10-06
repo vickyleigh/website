@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vicky Leigh</title>
+    <link>/</link>
+    <description>Recent content on Vicky Leigh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Shiny app</title>
+      <link>/blog/2019-10-06-class-survival/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-10-06-class-survival/</guid>
+      <description>A doctor was about to have hs 40 year class reunion and asked if we could predict how many people would have survived to make it there.
+I thought this would be a great opportunity to try making my first Shiny app.
+The population and death data was from the ONS (2017) which only had data for up to 2016, so beyond this the data was forcasted.
+The Shiny app is here and the code is here</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a data analyst at Norfolk County Council&amp;rsquo;s Inteligence &amp;amp; Analytics department working mostly with data on Children&amp;rsquo;s Services and Public Health.
+I have a masters degree in Research Methods of Psychology from the University of Glasgow&amp;rsquo;s Institute of Neuroscience and Psychology. My masters project investigated the effect of parental imprinting on partner preference for bisexual women with Lisa Debruine.
+Outside of work, I train with Norfork Roller Derby</description>
+    </item>
+    
+    <item>
+      <title>Academic background</title>
+      <link>/blog/academic/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/academic/</guid>
+      <description>My masters project focused on the influence of sexual orientation and parental imprinting on partner choice and was part of the ESRC funded KINSHIP project “How do humans recognise kin?”.
+
+I presented this research as a poster at the European Human Behaviour and Evolution Association (EHBEA) conference in Pécs, Hungary and at the Human Behavior and Evolution Society (HBES) conference in Amsterdam, The Netherlands. Which you can download here.</description>
+    </item>
+    
+  </channel>
+</rss>

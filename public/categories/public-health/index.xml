@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Health on Vicky Leigh</title>
+    <link>/categories/public-health/</link>
+    <description>Recent content in Public Health on Vicky Leigh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/public-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Shiny app</title>
+      <link>/blog/2019-10-06-class-survival/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-10-06-class-survival/</guid>
+      <description>A doctor was about to have hs 40 year class reunion and asked if we could predict how many people would have survived to make it there.
+I thought this would be a great opportunity to try making my first Shiny app.
+The population and death data was from the ONS (2017) which only had data for up to 2016, so beyond this the data was forcasted.
+The Shiny app is here and the code is here</description>
+    </item>
+    
+  </channel>
+</rss>
