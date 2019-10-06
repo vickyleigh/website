@@ -19,7 +19,7 @@ showcomments: yes
 showpagemeta: yes
 ---
 
-A doctor was about to have hs 40 year class reunion and asked if we could predict how many people would have survived to make it there.
+A doctor was about to have his 40 year class reunion and asked if we could predict how many people would have survived to make it there.
 
 I thought this would be a great opportunity to try making my first Shiny app. 
 
